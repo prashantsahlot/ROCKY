@@ -14,7 +14,7 @@ class Config(object):
     STRING_SESSION = getenv("STRING_SESSION", None)
     SPAMWATCH_API = None
     TOKEN = getenv("TOKEN", None)
-    OWNER_ID = int(getenv("OWNER_ID", "5938660179"))  # sᴛᴀʀᴛ @Exon_Robot ᴛʏᴘᴇ /id
+    OWNER_ID = int(getenv("OWNER_ID", "1668494031"))  # sᴛᴀʀᴛ @Exon_Robot ᴛʏᴘᴇ /id
     OWNER_USERNAME = getenv("OWNER_USERNAME", "prashant_sahlot")
     SUPPORT_CHAT = getenv("SUPPORT_CHAT", "AKATSUKI_OFFICIAL_0")
     LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001819078701"))
